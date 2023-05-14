@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Folio="82" Fecha="2018-10-23T19:51:37" FormaPago="03" NoCertificado="00001000000400118186" Certificado="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" SubTotal="2832.17" Moneda="MXN" Total="2700.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="91500" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Sello="bhAjkUApfzkikBYsxhdVcIRfPPFNEmOVV9lTnhMS28QtfZw/XfPT9TardzI9c6lPn2YBMIQZiE/yxkoo+Q63i+0baW6FpHH9YeMnjCE1Y6Cu+oCO7otXw4SY87oNVjTpxRxiS0dctloN6JJJtjwx3T8xvR/wAf+/hiAQxPtx8VSjBTy760eWIjNfX3qVjPD38J/WEEqcsPZu+NAtqxJMzWaFOFACa1KVFNMzBianJRKT3WDdCJPej2IdT1ZmWpXW5hzYmPFkr2u2puUrJSGwiv4Hv2QXxkirYyf4jb8XsHAoJgB/TiNp0GJ0GMmQcpfXRjtANilGr9vHF5FpfBjdBg==">
+   <cfdi:Emisor Rfc="FUJJ870205DH0" Nombre="JORGE ALBERTO FUENTES DE JESUS" RegimenFiscal="612"></cfdi:Emisor>
+   <cfdi:Receptor Rfc="PDV050906CX7" Nombre="PROMOTORA DEPORTIVA DEL VALLE DE ORIZABA, A.C." UsoCFDI="G03"></cfdi:Receptor>
+   <cfdi:Conceptos>
+      <cfdi:Concepto ClaveProdServ="90141500" NoIdentificacion="40" Cantidad="1" ClaveUnidad="E48" Unidad="E48" Descripcion="ARBITRO ASISTENTE No.1 PARTIDO TIBURONES ROJOS DE VERACRUZ VS LOBOS BUAP LIGA MX FEMENIL" ValorUnitario="2832.17" Importe="2832.17">
+         <cfdi:Impuestos>
+            <cfdi:Traslados>
+               <cfdi:Traslado Base="2832.17" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="453.1472"></cfdi:Traslado>
+            </cfdi:Traslados>
+            <cfdi:Retenciones>
+               <cfdi:Retencion Base="2832.17" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.106666" Importe="302.096245"></cfdi:Retencion>
+               <cfdi:Retencion Base="2832.17" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.100000" Importe="283.217"></cfdi:Retencion>
+            </cfdi:Retenciones>
+         </cfdi:Impuestos>
+      </cfdi:Concepto>
+   </cfdi:Conceptos>
+   <cfdi:Impuestos TotalImpuestosRetenidos="585.32" TotalImpuestosTrasladados="453.15">
+      <cfdi:Retenciones>
+         <cfdi:Retencion Impuesto="001" Importe="283.22"></cfdi:Retencion>
+         <cfdi:Retencion Impuesto="002" Importe="302.10"></cfdi:Retencion>
+      </cfdi:Retenciones>
+      <cfdi:Traslados>
+         <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="453.15"></cfdi:Traslado>
+      </cfdi:Traslados>
+   </cfdi:Impuestos>
+   <cfdi:Complemento>
+      <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="28E7DBF8-E4F1-9148-99AB-B86E5DAA6A44" FechaTimbrado="2018-10-23T20:05:49" RfcProvCertif="SCD110105654" SelloCFD="bhAjkUApfzkikBYsxhdVcIRfPPFNEmOVV9lTnhMS28QtfZw/XfPT9TardzI9c6lPn2YBMIQZiE/yxkoo+Q63i+0baW6FpHH9YeMnjCE1Y6Cu+oCO7otXw4SY87oNVjTpxRxiS0dctloN6JJJtjwx3T8xvR/wAf+/hiAQxPtx8VSjBTy760eWIjNfX3qVjPD38J/WEEqcsPZu+NAtqxJMzWaFOFACa1KVFNMzBianJRKT3WDdCJPej2IdT1ZmWpXW5hzYmPFkr2u2puUrJSGwiv4Hv2QXxkirYyf4jb8XsHAoJgB/TiNp0GJ0GMmQcpfXRjtANilGr9vHF5FpfBjdBg==" NoCertificadoSAT="00001000000401041203" SelloSAT="oQTakJZNUAbTh/gIrmmevSXwSn2Uaa0yk5ReIR8tCnVkZVNg+B40ARX46QTl0vBT1NIKDeNgieoPyV8DNmCqDwaOjwzpzYb32Ez1rvBVFw0kTcHFCO3inpilUjBX1SKROsvwLws5lsb7n92VBj3Kg6Bhu7skxKx2lnzZVYhu3bTBcoo+wSI5SW9eiQnso1Ouc0gvbIU4D9NuUZicKgRUm+oFFeoEyi3QH55gdCvR1DHnX+wJVwcXw9mlR+A9v9Fe7yNtEgVC5j6k6nh6r0lvIMkLBhadf1OSZay00eynk581cB9KnqCwvkmsg92pORZAT7saD3ObbryLkkayWKWOeg=="/>
+   </cfdi:Complemento>
+</cfdi:Comprobante>
