@@ -12,7 +12,7 @@ namespace WSDL.operaciones
         }
         public string Mostrar(int id)
         {
-            return "x";
+            return personNames[id];
         }
     }
 }
